@@ -1,0 +1,8 @@
+Words: 10
+Unique: 6
+easy      1
+fun       1
+is        3
+learning  1
+powerful  1
+python    3
